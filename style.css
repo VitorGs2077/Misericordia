@@ -1,7 +1,9 @@
-﻿body
-{
-    background-image: url("img/🐘🍓.webp");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+﻿body{
+    margin: 0px;
+    background-color: #89C34A;
+}
+.div_aling {
+    position: center;
+    background-color: #89C34A;
+    text-align: center;
 }
