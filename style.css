@@ -14,9 +14,10 @@
 button{
     padding-left: 50px;
     padding-right: 50px;
-    font-size: 20px;
+    font-size: 35px;
     height: 100px;
-    width: fit-content
+    width: fit-content;
+    font-family: Verdana;
 }
 img{
     margin: 50px;
