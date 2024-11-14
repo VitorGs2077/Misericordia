@@ -1,8 +1,7 @@
 function misericordia() {
-    document.location = "pg1.html"
-
-}
-document.getElementById('playButton').addEventListener('click', () => {
-    const audio = new Audio('snd/porminhavida.mp3')
+    const audio = new Audio("porminhavida.mp3")
     audio.play()
-});
+    document.getElementById("titulo").innerHTML = ""
+    document.getElementById('bt').style.visibility = 'hidden';
+    document.getElementById("img1").src = "img/🐘🍓.jpg"
+}

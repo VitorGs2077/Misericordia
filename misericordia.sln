@@ -6,8 +6,8 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{C61C2A96-CBB0-43DB-AF98-6E4A529A26DC}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		porminhavida.mp3 = porminhavida.mp3
 		script.js = script.js
-		pg1.html = pg1.html
 		style.css = style.css
 	EndProjectSection
 EndProject
@@ -16,18 +16,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C8B3CF65-084
 		img\🐘🍓.jpg = img\🐘🍓.jpg
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "snd", "snd", "{FF1B9966-51E3-4A8E-A058-E84D8BEFF2E7}"
-	ProjectSection(SolutionItems) = preProject
-		snd\porminhavida.mp3 = snd\porminhavida.mp3
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C8B3CF65-0847-404F-B684-7725EAF989A6} = {C61C2A96-CBB0-43DB-AF98-6E4A529A26DC}
-		{FF1B9966-51E3-4A8E-A058-E84D8BEFF2E7} = {C61C2A96-CBB0-43DB-AF98-6E4A529A26DC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5583D91F-CD4D-4968-AD92-A1772AECBCB8}
