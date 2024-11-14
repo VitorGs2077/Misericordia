@@ -4,9 +4,20 @@
     height: 100%
 }
 .div_aling {
+    font-size: 40px;
     position: center;
     background-color: #89C34A;
     text-align: center;
     color: aliceblue;
     font-family: Verdana;
+}
+button{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    height: 100px;
+    width: fit-content
+}
+img{
+    margin: 50px;
 }
