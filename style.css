@@ -5,20 +5,32 @@
 }
 .div_aling {
     font-size: 40px;
-    position: center;
     background-color: #89C34A;
     text-align: center;
     color: aliceblue;
     font-family: Verdana;
+    margin: 0px;
 }
 button{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding: 20px;
     font-size: 35px;
     height: 100px;
     width: fit-content;
     font-family: Verdana;
+    height: 10%;
 }
 img{
-    margin: 50px;
+    margin-top: 2%;
+    margin-bottom: 0px;
+    width: 25%;
+}
+#bt2{
+    border-radius: 100px;
+    background-color: #02A8F4;
+    width: 80%;
+}
+#bt3{
+    border-radius: 100px;
+    background-color: #00BAD3;  
+    width: 80%;
 }
