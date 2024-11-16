@@ -11,6 +11,14 @@
     font-family: Verdana;
     margin: 0px;
 }
+.div_aling2 {
+    font-size: 40px;
+    background-color: #89C34A;
+    text-align: center;
+    color: aliceblue;
+    font-family: Verdana;
+    margin: 0px;
+}
 button{
     padding: 20px;
     font-size: 35px;
@@ -33,4 +41,21 @@ img{
     border-radius: 100px;
     background-color: #00BAD3;  
     width: 80%;
+}
+
+@media (max-width: 1080px){
+    html{
+        height: 100%;
+    }
+    .div_aling2{
+        margin: 0px;
+        margin-top: 100%;
+    }
+    img{
+        width: 50%;
+    }
+    button{
+        font-size: medium;
+        font-family: arial;
+    }
 }
